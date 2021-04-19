@@ -3,7 +3,7 @@
 
 
 <h1 align = "center"> Hi  folks<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kaique </h1>
-<p align = "justify">Front-end Developer, Computer Engineering Student JavaScript and ReactJS fan, Performance curious,.</p>
+<p align = "justify">Front-end Developer, Computer Engineering Student JavaScript and ReactJS fan, Performance curious.</p>
 
 I currently work at NEKI [NEKI](https://neki-it.com.br/)
 
