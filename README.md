@@ -1,5 +1,3 @@
-Welcome file
-Welcome file
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kaiquegh" alt="kaique" /></p>
 
 
@@ -18,7 +16,8 @@ I'm learning at the moment **ReactNative, ReactJS**
 
 <a href="https://linkedin.com/in/kaique-heinen" target="blank">
 <img src="
-https://raw.githubusercontent.com/kaiquegh/kaiquegh/main/assets/linkedin.svg" alt="kaiqueheinen" title="Linkedin" width=90" height="40"/></a >
+https://raw.githubusercontent.com/kaiquegh/kaiquegh/main/assets/linkedin.svg" 
+alt="kaiqueheinen" title="Linkedin" width=90" height="40"/></a >
 
 
 
@@ -48,25 +47,3 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 
 
 
-
-kaique
-
-Hi folks, I'm Kaique
-Front-end Developer, Coffee lover, JavaScript and ReactJS fan, Performance curious,.
-
-I currently work at NEKI NEKI
-
-I’m learning at the moment ReactNative, ReactJS
-
-Connect with me:
-Gmail
-
-kaiqueheinen
-⚡ GitHub Stats
-Top Langs
-
-🚀 Continue to learn the language and tools:
-html5 css3 css3 css3 javascript angular react typescript
-
-firebase git gitHub bitbucket linux
-Markdown 3547 bytes 202 words 49 lines Ln 42, Col 84HTML 220 characters 41 words 7 paragraphs
