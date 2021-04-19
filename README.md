@@ -15,8 +15,8 @@ I'm learning at the moment **ReactNative, ReactJS**
 <a href="mailto:kaiquegh26@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/kaiquegh/kaiquegh/main/assets/google-gmail.svg" title="Email" width="40" height="25"/></a > 
 
 <a href="https://linkedin.com/in/kaique-heinen" target="blank">
-<img align="center" src="
-https://raw.githubusercontent.com/kaiquegh/kaiquegh/main/assets/linkedin.svg" alt="kaiqueheinen" height="40" width=90" /></a>
+<img src="
+https://raw.githubusercontent.com/kaiquegh/kaiquegh/main/assets/linkedin.svg" alt="kaiqueheinen" title="Linkedin" width=90" height="40"/></a >
 
 
 
