@@ -1,3 +1,5 @@
+Welcome file
+Welcome file
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kaiquegh" alt="kaique" /></p>
 
 
@@ -39,11 +41,32 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/kaiquegh/kaiquegh/main/assets/git-hub.svg" alt="gitHub" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank"> 
-<img src="
-https://raw.githubusercontent.com/kaiquegh/kaiquegh/main/assets/bitbucket.svg" alt="bitbucket" width="40" height="40"/> </a> <a href="https://bitbucket.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/kaiquegh/kaiquegh/main/assets/bitbucket.svg" alt="bitbucket" width="40" height="40"/> </a> <a href="https://bitbucket.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank">
 
 
 
 
 
 
+
+kaique
+
+Hi folks, I'm Kaique
+Front-end Developer, Coffee lover, JavaScript and ReactJS fan, Performance curious,.
+
+I currently work at NEKI NEKI
+
+I’m learning at the moment ReactNative, ReactJS
+
+Connect with me:
+Gmail
+
+kaiqueheinen
+⚡ GitHub Stats
+Top Langs
+
+🚀 Continue to learn the language and tools:
+html5 css3 css3 css3 javascript angular react typescript
+
+firebase git gitHub bitbucket linux
+Markdown 3547 bytes 202 words 49 lines Ln 42, Col 84HTML 220 characters 41 words 7 paragraphs
