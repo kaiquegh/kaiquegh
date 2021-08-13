@@ -5,7 +5,7 @@
 <h1 align = "center"> Hi  folks<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kaique </h1>
 <p align = "justify">Front-end Developer, Computer Engineering Student, JavaScript and ReactJS fan and passionate about technology.</p>
 
-I currently work at NEKI [NEKI](https://neki-it.com.br/)
+I currently work at TO Brasil [to-brasil](https://to-brasil.com/)
 
 I'm learning at the moment **ReactNative, ReactJS**
 
