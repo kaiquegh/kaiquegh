@@ -17,6 +17,7 @@ I'm learning at the moment **ReactNative, ReactJS**
 <p align="left">
 <a href="https://linkedin.com/in/kaique-heinen" target="blank">
 <img src="https://raw.githubusercontent.com/kaiquegh/kaiquegh/main/assets/linkedin.svg" alt="linux" width="90" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"></a >
+</p>
 
 
 
